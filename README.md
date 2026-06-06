@@ -12,5 +12,9 @@ Analyze the response and the Output.
 
 The aim is to understand how to request help from AI tools for tasks like writing Python code, integrating with APIs, comparing outputs, and generating actionable insights.
 
+Output:
+[text](../../prompt/exp6.pdf)
+
 
 Result: 
+Thus, Python code was developed to interact with multiple AI tools, compare their outputs, and generate actionable insights successfully.
